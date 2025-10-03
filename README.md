@@ -25,6 +25,8 @@ _Great job uploading test reports! :partying_face:_
 
 Take a look at the merge box, you'll notice you can merge this even though the review process hasn't been met.
 
+SVG
+
 Protected branches ensure that collaborators on your repository cannot make irrevocable changes to branches. Enabling protected branches also allows you to enable other optional checks and requirements, like required status checks and required reviews.
 
 ### :keyboard: Activity: Add branch protections
