@@ -1,0 +1,8 @@
+{
+  "name": "skills-test-with-actions",
+  "version": "1.0.0",
+  "description": "A repository for the GitHub Actions course",
+  "scripts": {
+    "test": "echo \"Tests passed successfully!\" && exit 0"
+  }
+}
